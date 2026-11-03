@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.PressGEO/pressgeo",
   "title": "PressGEO",
-  "description": "Read-only public local AI search visibility data, owner-confirmed business factsheets, and published newsrooms.",
+  "description": "Public local AI visibility data, owner-confirmed business factsheets, and newsrooms.",
   "repository": {
     "url": "https://github.com/PressGEO/pressgeo-mcp",
     "source": "github"
